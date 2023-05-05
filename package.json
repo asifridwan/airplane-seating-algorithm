@@ -1,0 +1,15 @@
+{
+  "name": "airplane-seating-algorithm",
+  "version": "1.0.0",
+  "description": "Seating algorithm for airplane",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Asif Ridwan",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
