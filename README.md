@@ -4,8 +4,8 @@ This is a Node.js terminal program that helps seat audiences in a flight based o
 
 ### Input :
 
-- A 2D array that represents the rows and columns, for example `[[3,2], [4,3], [2,3], [3,4]]`
-- Number of passengers waiting in queue, for example `30`
+- A 2D array that represents the rows and columns, for example : `[[3,2], [4,3], [2,3], [3,4]]`
+- Number of passengers waiting in queue, for example : `30`
 
 ### Rules :
 
