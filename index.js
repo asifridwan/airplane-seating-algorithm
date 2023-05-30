@@ -80,7 +80,7 @@ if(typeof(inputArray) === 'object' && inputArray[0][0]) {
                     showLayout(arrangement, maxRow)
                 }
             }
-            // Teminate with error if the number of passengers is an invalid type
+            // Terminate with error if the number of passengers is an invalid type
             else {
                 console.log('Wrong input type !')
             }
