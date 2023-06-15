@@ -14,7 +14,8 @@ This is a Node.js terminal program that helps seat audiences in a flight based o
 
 ### Usage :
 
-1. Clone the repo or Download as ZIP
-2. Open terminal and navigate to the directory of the repo
-3. Install dependencies using the command `npm install`
-4. Start program using the command `npm start`
+- Ensure that Node.js is installed
+- Clone the repo or Download as ZIP
+- Open terminal and navigate to the directory of the repo
+- Install dependencies using the command `npm install`
+- Start program using the command `npm start`
